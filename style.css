@@ -1,0 +1,30 @@
+h1{
+   color: red;
+    background-color: rgb(15, 15, 22);
+
+}
+  .same{
+    background-color: green; 
+
+  }
+.another{
+    font-size: 50px;
+}
+p{
+   font-size: 21px;
+   color: black;
+   text-transform:uppercase;
+   text-decoration:underline;
+   text-decoration-style:wavy;
+   text-decoration-style:double ;
+   line height=2;
+   letter-spacing: 2px;
+   background-color: green;
+  background-image: url(image/bg.jpg);
+  /*background-repeat:repeat-y;
+  background-position: center;*/
+  background-size:cover;
+  background-attachment:fixed;
+
+
+}
